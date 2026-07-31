@@ -6,7 +6,8 @@
         "browser-events": "*",
         "sprite-fx": "github:kohanmathers/makecodespritefx#v1.3.0",
         "darts": "*",
-        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.6.0"
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.6.0",
+        "BOR THAT": "github:starfield-2323/bor-that#40caaf633d919d5d53464ca4d2f4d4b1cb0fa5a2"
     },
     "files": [
         "main.blocks",
